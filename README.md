@@ -1,4 +1,9 @@
-Senior Business-Analyst | Consultor Pymes | Data Analyst | Excel Specialist | Parts Manager | Ingeniero Mecánico | Fanático Tecnología
+Senior Business-Analyst 
+Consultor Pymes
+Data Analyst
+Excel Specialist
+Ingeniero Mecánico
+Fanático Tecnología
 
 <!--
 **joselo1261/joselo1261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
